@@ -1,0 +1,21 @@
+From 943876516aa436cb3e5dfd58b038fb2c67f5bb60 Mon Sep 17 00:00:00 2001
+From: Raj-mindmade <pushparaj@mindmade.in>
+Date: Wed, 30 Nov 2016 21:30:03 +0530
+Subject: [PATCH] first commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index 8d52ba4..33a49cd 100644
+--- a/README.md
++++ b/README.md
+@@ -293,3 +293,4 @@ For more information on AngularJS please check out [angularjs.org][angularjs].
+ [selenium]: http://docs.seleniumhq.org/
+ [travis]: https://travis-ci.org/
+ [travis-docs]: https://docs.travis-ci.com/user/getting-started
++# Templatestore-Angular
+-- 
+2.10.2.windows.1
+
